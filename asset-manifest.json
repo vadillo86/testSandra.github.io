@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testSandra.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/testSandra.github.io/static/js/main.bcb225a6.js",
+    "static/js/787.38ec6ba4.chunk.js": "/testSandra.github.io/static/js/787.38ec6ba4.chunk.js",
+    "static/media/logo.svg": "/testSandra.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/testSandra.github.io/index.html",
+    "main.073c9b0a.css.map": "/testSandra.github.io/static/css/main.073c9b0a.css.map",
+    "main.bcb225a6.js.map": "/testSandra.github.io/static/js/main.bcb225a6.js.map",
+    "787.38ec6ba4.chunk.js.map": "/testSandra.github.io/static/js/787.38ec6ba4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bcb225a6.js"
+  ]
+}
